@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619321465387",
+    "project_id": "blog-93349",
+    "storage_bucket": "blog-93349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619321465387:android:93866a681c232b336ea86e",
+        "android_client_info": {
+          "package_name": "com.example.product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYTp5RIDDOXTtIgWcwmM2MbbOSuTXbo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619321465387:android:1ee7111ff8c7d74e6ea86e",
+        "android_client_info": {
+          "package_name": "com.sidi.blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYTp5RIDDOXTtIgWcwmM2MbbOSuTXbo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
